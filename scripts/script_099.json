@@ -5,7 +5,7 @@
     "slot_size": 112,
     "data_size": 108,
     "nom_orig": "Ginko",
-    "texte_orig": "This[SP]is...[1205][001E][SP]where[SP]we[SP]hid[SP]Big[SP]Sis'[SP]mask...",
+    "texte_orig": "C'est...[1205][001E][SP]c'est ici qu'on a caché le masque de sœurette...",
     "nom_fr": "",
     "texte_fr": ""
   },
@@ -15,7 +15,7 @@
     "slot_size": 156,
     "data_size": 152,
     "nom_orig": "Eikichi",
-    "texte_orig": "Yeah,[SP]you're[SP]right...[1205][001E][SP]I[SP]felt[SP]like[SP]this[SP]ten\nyears[SP]ago,[SP]too...",
+    "texte_orig": "Ouais, t'as raison...[1205][001E]Je me sentais pareil\nil y a 10 ans aussi",
     "nom_fr": "",
     "texte_fr": ""
   },
@@ -25,7 +25,7 @@
     "slot_size": 288,
     "data_size": 284,
     "nom_orig": "Eikichi",
-    "texte_orig": "A[SP]sense[SP]of[SP]regret[SP]and[SP]awareness[SP]of[SP]the[SP]sin\nwe[SP]committed...[1205][001E][SP]utter[SP]terror...[1205][001E][SP]And[SP]sorrow\nas[SP]if[SP]my[SP]heart[SP]was[SP]being[SP]torn[SP]apart...",
+    "texte_orig": "Un sentiment de regret et de conscience\nenvers les péchés que nous avons commis...[1205][001E] une terreur infini...[1205][001E] \nEt une peine comme si mon cœur était en mille morceaux...",
     "nom_fr": "",
     "texte_fr": ""
   },
@@ -35,7 +35,7 @@
     "slot_size": 196,
     "data_size": 192,
     "nom_orig": "Maya",
-    "texte_orig": "Your[SP]lives[SP]would[SP]be[SP]so[SP]much[SP]easier[SP]if[SP]you\ncould[SP]fix[SP]it[SP]so[SP]that[SP]nothing[SP]ever[SP]happened.",
+    "texte_orig": "Vos vies seraient tellement plus simple si \nvous pouviez tout modifier comme si rien n'était jamais arrivé.",
     "nom_fr": "",
     "texte_fr": ""
   },
@@ -45,7 +45,7 @@
     "slot_size": 158,
     "data_size": 154,
     "nom_orig": "Maya",
-    "texte_orig": "But[SP]don't[SP]you[SP]think[SP]the[SP]one[SP]who[SP]was[SP]forgotten\nwould[SP]feel[SP]horrible?",
+    "texte_orig": "Mais vous ne pensez pas que celui qui à été oublié \nse sentirait affreusement mal ?",
     "nom_fr": "",
     "texte_fr": ""
   },
@@ -55,7 +55,7 @@
     "slot_size": 258,
     "data_size": 254,
     "nom_orig": "Maya",
-    "texte_orig": "Real[SP]life[SP]isn't[SP]a[SP]video[SP]game.[SP]You[SP]can't[SP]just\npress[SP]the[SP]reset[SP]button.[SP]The[SP]sins[SP]you've\ncommitted[SP]will[SP]never[SP]disappear.",
+    "texte_orig": "La vrai vie n'est pas aussi simple qu'un jeu vidéo. \nTu ne peux pas juste lancer une nouvelle partie. \nLes péchés que vous avez commis ne vont jamais disparaitre.",
     "nom_fr": "",
     "texte_fr": ""
   }
